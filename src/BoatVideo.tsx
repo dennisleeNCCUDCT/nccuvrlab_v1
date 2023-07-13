@@ -6,7 +6,10 @@ function BoatVideo() {
       muted
       loop
     >
-      <source src="./assets/UE5 Ship Sailing_1080p.mp4" type="video/mp4" />
+      <source
+        src="https://www.youtube.com/watch?v=ijF4-Dea4bM&ab_channel=EranHaviv"
+        type="video/mp4"
+      />
     </video>
   );
 }
