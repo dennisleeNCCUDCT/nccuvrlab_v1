@@ -6,7 +6,7 @@ function BoatVideo() {
       muted
       loop
     >
-      <source src="src/assets/UE5 Ship Sailing_1080p.mp4" type="video/mp4" />
+      <source src="./assets/UE5 Ship Sailing_1080p.mp4" type="video/mp4" />
     </video>
   );
 }
